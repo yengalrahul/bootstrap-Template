@@ -1,7 +1,6 @@
 .navbar:not(.top-nav-collapse) {
     background: transparent !important;
     text-decoration-color: tomato;
-
   }
   .top-nav-collapse {
     background-color: #78909c !important;
